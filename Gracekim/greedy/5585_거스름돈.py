@@ -1,1 +1,8 @@
-print("Hello World!")
+a = 1000 - int(input())
+money = [500, 100, 50, 10, 5, 1] #단위
+result = 0
+for i in money:
+    result += a // i 
+    a %= i 
+
+print(result)
