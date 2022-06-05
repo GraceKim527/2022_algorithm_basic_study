@@ -23,7 +23,7 @@ Member : 김상백, 김은혜, 박소영, 박수진(중도하차), 윤정기
 | 1주차_그리디| greedy | 박소영_2022.04.24 | [거스름돈](https://www.acmicpc.net/problem/5585) | [이장님 초대](https://www.acmicpc.net/problem/9237)| `진행 완료` |
 | 2주차_구현 | implementation| 김은혜_2022.05.08 |[럭키](https://www.acmicpc.net/problem/18406) | [방 번호](https://www.acmicpc.net/problem/1475)| `진행 완료` |
 | 3주차_DFS/BFS | dfs_bfs | 김상백_2022.05.22 | [점프왕 쩰리](https://www.acmicpc.net/problem/16173)| [바이러스](https://www.acmicpc.net/problem/2606)| `진행 완료` |
-| 4주차_정렬 | sort | 윤정기_2022.06.05 | |  | `진행 전`   |
+| 4주차_정렬 | sort | 윤정기_2022.06.05 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751)| [베스트셀러](https://www.acmicpc.net/problem/1302)| `진행 완료` |
 | 5주차_이진 탐색 | binary_search | 김상백_2022.06.12 |  |  | `진행 전` |
 | 6주차_다이나믹| dynamic_programming | 박소영_2022.06.19 |  |  | `진행 전`  |
 | 7주차_최단경로 | shortest_path  | 윤정기_2022.06.26 |  |     | `진행 전` |
