@@ -10,6 +10,7 @@ def dfs(x, y):
     # 범위를 벗어나면 종료
     if x >= map_size or y >= map_size or x <= -1 or y <= -1:
         return False
+
     if graph[x][y] == False:
         return
 
